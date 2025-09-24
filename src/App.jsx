@@ -1,12 +1,13 @@
 import React from 'react'
-import { Button } from './components/ui/button'
+import './App.css'
+
 
 
 function App() {
   return (
     <div>
 
-    <Button>ABHO</Button>
+    <h1 className="custom-bg-red">ABHISHEK</h1>
 
     
 
