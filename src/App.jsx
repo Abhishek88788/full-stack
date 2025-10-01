@@ -5,10 +5,10 @@ import './App.css'
 
 function App() {
   return (
-    <div>
+    <div className='bg-black h-screen w-screen flex flex-col justify-center items-center'>
 
-    <h1 className="custom-bg-red">ABHISHEK</h1>
-
+    <h1 className= 'text-white'>ABHISHEK</h1>
+    <button>PRESS</button>
     
 
     </div>
